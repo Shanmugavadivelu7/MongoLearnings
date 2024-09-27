@@ -1,0 +1,1 @@
+module.exports = uri = "mongodb+srv://Shanmuga:Shanmuga%40123@cluster0.05pg1xi.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
